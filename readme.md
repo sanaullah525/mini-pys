@@ -22,3 +22,4 @@ This repository contains Python scripts built during my journey of learning codi
 
 ---
 *Feel free to explore the scripts and review the code.*
+
