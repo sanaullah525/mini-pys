@@ -1,4 +1,4 @@
-# Python Automation and Scripts
+# 🐍 Python Automation and Scripts
 
 This repository contains Python scripts built during my journey of learning coding and systems automation. It includes a mix of independent utilities, as well as scripts adapted from technical books, blogs, and instructional videos.
 
@@ -11,7 +11,7 @@ This repository contains Python scripts built during my journey of learning codi
 ## 🛠️ Concepts Covered
 * **Language:** Python 3.x
 * **Core Logic:** Functions, loops, conditional statements, and basic error handling.
-*   **System Operations:** Interacting with files, parsing text, and organizing directories.
+* **System Operations:** Interacting with files, parsing text, and organizing directories.
 
 ## 🚀 Task Automation
 * **File Operations:** Scripts to create, read, update, and delete files and directories.
