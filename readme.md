@@ -7,3 +7,4 @@ accounts. It’s best to use password manager software on your computer that
 uses one master password to unlock the password manager. Then you can
 copy any account password to the clipboard and paste it into the website’s
 Password field.
+
