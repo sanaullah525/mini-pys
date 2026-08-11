@@ -8,3 +8,7 @@ This repository contains Python scripts built during my journey of learning codi
 *   **Practical Learning:** A central place to practice translating manual workflows into repeatable Python code.
 *   **Resource Utilization:** Practical implementations of foundational scripting concepts learned from various tech tutorials.
 
+## 🛠️ Concepts Covered
+*   **Language:** Python 3.x
+*   **Core Logic:** Functions, loops, conditional statements, and basic error handling.
+*   **System Operations:** Interacting with files, parsing text, and organizing directories.
