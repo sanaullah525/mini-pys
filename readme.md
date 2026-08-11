@@ -12,3 +12,6 @@ This repository contains Python scripts built during my journey of learning codi
 *   **Language:** Python 3.x
 *   **Core Logic:** Functions, loops, conditional statements, and basic error handling.
 *   **System Operations:** Interacting with files, parsing text, and organizing directories.
+
+---
+*Feel free to explore the scripts and review the code.*
