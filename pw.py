@@ -1,5 +1,6 @@
 import getpass
 import hashlib
+import pyperclip
 import sys
 
 # storing only the HASH of your master password, not the password itself
@@ -23,3 +24,6 @@ if len(sys.argv) < 2:
 
 account= sys.argv[1]
 
+if account in PASSWORDS:
+  pyperclip.copy(PASSWORDS[account])
+  print('Password for '+ account + ' copied to the system\'s clipboard.')
