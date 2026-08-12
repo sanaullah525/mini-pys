@@ -20,3 +20,4 @@ if len(sys.argv) < 2:
 if len(sys.argv) < 2:
   print('Usage: python pw.py [account] - copy account password')
   sys.exit()
+
