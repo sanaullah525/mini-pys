@@ -9,3 +9,6 @@ entered = getpass.getpass("Master password: ")
 if hashlib.sha256(entered.encode()).hexdigest() != MASTER_HASH:
     sys.exit()
 
+PASSWORDS= {'email': 'F7minlBDDuvMJuxESSKHFhTxFtjVB6',
+            'blog': 'VmALvQyKAxiVH5G8v01if1MLZF3sdt',
+            'luggage': '12345'} 
