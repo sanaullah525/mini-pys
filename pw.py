@@ -8,3 +8,4 @@ MASTER_HASH = "e7c038f31f4a241001e57d95def669f1e5dd2e40a46c22b15fe65cac8c3dd03d"
 entered = getpass.getpass("Master password: ")
 if hashlib.sha256(entered.encode()).hexdigest() != MASTER_HASH:
     sys.exit()
+
