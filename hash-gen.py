@@ -9,3 +9,4 @@ password_hash = hashlib.sha256(password.encode('utf-8')).hexdigest()
 
 print("\nSHA-256 Hash:")
 print(password_hash)
+
