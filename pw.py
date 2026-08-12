@@ -30,3 +30,4 @@ if account in PASSWORDS:
   print('Password for '+ account + ' copied to the system\'s clipboard.')
 else:
   print('There is no account named ' + account)
+
