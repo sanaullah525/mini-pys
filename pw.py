@@ -27,3 +27,5 @@ account= sys.argv[1]
 if account in PASSWORDS:
   pyperclip.copy(PASSWORDS[account])
   print('Password for '+ account + ' copied to the system\'s clipboard.')
+else:
+   
