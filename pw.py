@@ -1,3 +1,6 @@
+#!/usr/bin/env python3
+# pw.py - A secure password locker program.
+
 import getpass
 import hashlib
 import pyperclip
@@ -30,4 +33,3 @@ if account in PASSWORDS:
   print('Password for '+ account + ' copied to the system\'s clipboard.')
 else:
   print('There is no account named ' + account)
-
